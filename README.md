@@ -11,7 +11,7 @@ You'll need to install [AutoHotKey V2](https://www.autohotkey.com/), a scripting
 To test the script, you can just double click on it to run, or if you prefer the shell:
 
 ```powershell
-"C:\Program Files\AutoHotkey\AutoHotkey.exe" "src/ButtonBox.ahk"
+"C:\Program Files\AutoHotkey\v2\AutoHotkey.exe" "src/ButtonBox.ahk"
 ```
 ## Testing
 
